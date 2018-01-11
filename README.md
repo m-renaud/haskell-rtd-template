@@ -26,7 +26,8 @@ cd /path/to/your/package/docs/
 make html
 ```
 
-And you're done!
+And you're done! View in your browser by visiting
+`file:///path/to/your/package/docs/_build/html/index.html`.
 
 ## Uploading to ReadTheDocs
 
