@@ -1,0 +1,12 @@
+Haskell ``TODO_HASKELL_PACKAGE_NAME`` package
+=============================================
+
+This site contains an introduction and overview of the main features of the
+``TODO_HASKELL_PACKAGE_NAME`` package. For full API documentation see the
+:haddock:`TODO_HASKELL_PACKAGE_NAME` Haddocks.
+
+.. toctree::
+   :maxdepth: 2
+
+   intro
+   moduleA
