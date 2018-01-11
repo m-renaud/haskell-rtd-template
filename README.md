@@ -5,6 +5,12 @@ tutorials using ReadTheDocs.
 
 ## Dowloading and using the template
 
+Install [Sphinx](www.sphinx-doc.org) and the [ReadTheDocs
+theme](https://github.com/rtfd/sphinx_rtd_theme):
+```
+pip install sphinx sphinx-autobuild sphinx_rtd_theme
+```
+
 Clone the repository somewhere outside of your repo:
 ```
 git clone --recurse-submodules https://github.com/m-renaud/haskell-rtd-template.git
