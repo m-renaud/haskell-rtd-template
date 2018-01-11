@@ -35,6 +35,9 @@ make html
 And you're done! View in your browser by visiting
 `file:///path/to/your/package/docs/_build/html/index.html`.
 
+For a full example see the [containers
+documentation](https://haskell-containers.readthedocs.io).
+
 ## Uploading to ReadTheDocs
 
 1. Create an account at [ReadTheDocs](https://www.readthedocs.org).
