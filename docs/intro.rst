@@ -1,5 +1,5 @@
-Introduction
-============
+``TODO_PACKAGE_NAME`` Introduction
+==================================
 
 The ``TODO_PACKAGE_NAME`` package provides TODO.
 

@@ -1,5 +1,5 @@
-Haskell ``TODO_HASKELL_PACKAGE_NAME`` package
-=============================================
+``TODO_HASKELL_PACKAGE_NAME`` introduction and tutorial
+=======================================================
 
 This site contains an introduction and overview of the main features of the
 ``TODO_HASKELL_PACKAGE_NAME`` package. For full API documentation see the
