@@ -56,9 +56,9 @@ TODO: Instructions for how to see what version you have.
 Importing modules
 ^^^^^^^^^^^^^^^^^
 
-All of the modules in ``TODO_PACKAGE`` should be imported ``qualified`` (TODO:
-maybe they shouldn't be) since they use names that conflict with the standard
-Prelude.
+All of the modules in ``TODO_PACKAGE_NAME`` should be imported ``qualified``
+(TODO: maybe they shouldn't be) since they use names that conflict with the
+standard Prelude.
 
 ::
 

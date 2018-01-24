@@ -25,7 +25,7 @@ master_doc = 'index'
 
 # General information about the project.
 # TODO: Replace with package name as it appears on Hackage
-project = u'HASKELL_PACKAGE_NAME'
+project = u'TODO_PACKAGE_NAME'
 # TODO: Fill in copyright holder.
 copyright = u'2018, TODO_COPYRIGHT'
 # TODO: Fill in author
