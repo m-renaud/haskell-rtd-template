@@ -50,3 +50,25 @@ documentation](https://haskell-containers.readthedocs.io).
 *Note: We prefix the package name with `haskell-` for consistency across
 packages since the bare package name won't be available in many cases. If the
 package name has the `haskell-` prefix already then just use the package name.*
+
+## Haskell Specific ReadTheDoc Extension
+
+I've also written a [Haddock Autolink](https://github.com/m-renaud/haddock-autolink) extension which allows you to easily link to Haddocks using simple syntax like:
+
+
+```
+:haddock:`containers`
+```
+=> [containers](https://hackage.haskell.org/package/containers)
+
+```
+:haddock:`containers/Data.Sequence`
+```
+=> [Data.Sequence](https://hackage.haskell.org/package/containers/docs/Data-Sequence.html)
+
+```
+:haddock:`containers/Data.Sequence#empty`
+```
+=> [Data.Sequence#empty](https://hackage.haskell.org/package/containers/docs/Data-Sequence.html#v:empty)
+
+See the README for more info.
